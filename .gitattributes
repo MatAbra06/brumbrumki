@@ -1,4 +1,4 @@
 *.html linguist-detectable=true
-*.css linguist-detectable=true
-*.js linguist-detectable=true
-car.min.js linguist-vendored
+*.min.css linguist-vendored=false linguist-detectable=true
+*.min.js linguist-vendored=false linguist-detectable=true
+dist/**/* linguist-detectable=true
